@@ -1,2 +1,3 @@
-# 5th project in alpha intern programm
+# 5th project myntra clone
+
 project name is myntra clone 
